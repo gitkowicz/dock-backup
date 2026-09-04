@@ -6,8 +6,6 @@ A small macOS utility for backing up and restoring the Dock configuration.
 
 ---
 
-## 🖥️ Interface / Интерфейс
-
 ![Dock Backup](screenshot.png)
 
 ## Features / Возможности
