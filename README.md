@@ -17,6 +17,12 @@ A small macOS utility for backing up and restoring the Dock configuration.
 
 ---
 
+## 🖥️ Interface / Интерфейс
+
+![Dock Backup](screenshot.png)
+
+---
+
 ## Backup Location / Где хранятся резервные копии
 
 Backups are stored in the `backups` folder next to the application.
