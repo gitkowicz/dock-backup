@@ -6,6 +6,12 @@ A small macOS utility for backing up and restoring the Dock configuration.
 
 ---
 
+## 🖥️ Interface / Интерфейс
+
+![Dock Backup](screenshot.png)
+
+---
+
 ## Features / Возможности
 
 - 💾 Create Dock backups / Создание резервных копий Dock
@@ -14,12 +20,6 @@ A small macOS utility for backing up and restoring the Dock configuration.
 - 📦 View available backups / Просмотр доступных копий
 - ❓ Built-in help / Встроенная справка
 - 🎨 Colored Terminal interface / Цветной интерфейс Terminal
-
----
-
-## 🖥️ Interface / Интерфейс
-
-![Dock Backup](screenshot.png)
 
 ---
 
