@@ -4,8 +4,6 @@ A small macOS utility for backing up and restoring the Dock configuration.
 
 Небольшая утилита для macOS для создания резервных копий и восстановления настроек Dock.
 
----
-
 ![Dock Backup](screenshot.png)
 
 ## Features / Возможности
