@@ -1,15 +1,15 @@
 # Dock Backup v1.0
 
-A small macOS utility for backing up and restoring the Dock configuration.
+A small macOS utility for backing up and restoring the Dock layout (icon positions and order).
 
-Небольшая утилита для macOS для создания резервных копий и восстановления настроек Dock.
+Небольшая утилита для macOS для создания резервных копий и восстановления раскладки Dock (положения и порядок иконок).
 
 ![Dock Backup](screenshot.png)
 
 ## Features / Возможности
 
-- 💾 Create Dock backups / Создание резервных копий Dock
-- ♻️ Restore any saved backup / Восстановление любой сохранённой копии
+- 💾 Create Dock backups / Создание резервных копий раскладки Dock
+- ♻️ Restore any saved backup / Восстановление любой сохранённой копии раскладки
 - 🛡️ Automatic safety backup before every restore / Автоматическая страховочная копия перед восстановлением
 - 📦 View available backups / Просмотр доступных копий
 - ❓ Built-in help / Встроенная справка
@@ -94,9 +94,9 @@ Created automatically before every restore.
 
 Автоматически создаются перед каждым восстановлением.
 
-This allows you to return to the Dock configuration that existed immediately before the restore.
+This allows you to return to the Dock layout that existed immediately before the restore.
 
-Это позволяет вернуть состояние Dock, которое было непосредственно перед восстановлением.
+Это позволяет вернуть раскладку Dock, которая была непосредственно перед восстановлением.
 
 ---
 
